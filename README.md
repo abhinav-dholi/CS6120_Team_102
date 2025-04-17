@@ -43,8 +43,8 @@ These components are integrated through a Flask web application that interacts w
 
 2. Clone the repository
   ```bash
-  git clone https://github.com/username/nurse-practitioner-copilot
-  cd nurse-practitioner-copilot
+  git clone https://github.com/abhinav-dholi/CS6120_Team_102
+  cd CS6120_Team_102
   ```
 
 3. Set up the MySQL database
