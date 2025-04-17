@@ -25,6 +25,57 @@ The system consists of four primary NLP components:
 4. **NER Model Training Pipeline**: Trains and evaluates the NER model
 
 These components are integrated through a Flask web application that interacts with a MySQL database storing patient data and clinical notes.
+## Setup Steps
+
+1. **Install Ollama**
+
+   **Mac/Linux:**
+   ```bash
+   brew install ollama
+   ollama serve
+   ollama pull deepseek-r1:8b
+  **Windows:**
+  Download and install Ollama from: https://ollama.com/download
+  ```bash
+  ollama serve
+  ollama pull deepseek-r1:8b
+  ```
+
+2. Clone the repository
+  ```bash
+  git clone https://github.com/username/nurse-practitioner-copilot
+  cd nurse-practitioner-copilot
+  ```
+
+3. Set up the MySQL database
+  ```bash
+  CREATE DATABASE rpm_database;
+  mysql -u <your_username> -p rpm_database < database_creation/rpm_dataset_dump_updated.sql
+  ```
+
+4. Create and activate Python virtual environment
+  **Mac/Linux:**
+  ```bash
+  python3.11 -m venv venv
+  source venv/bin/activate
+  ```
+  **Windows:**
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  ```
+
+5. Install Python dependencies
+  ```bash
+  pip install --upgrade pip
+  pip install -r RPM_Copilot/requirements.txt
+  ```
+
+6. Run the application
+  ```bash
+  python RPM_Copilot/app.py
+  ```
+Open http://127.0.0.1:5000/ in your browser to access the application.
 
 ## Usage
 
