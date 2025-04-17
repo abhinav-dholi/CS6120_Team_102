@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Patient Search</title>
+    <!-- css styling -->
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+      body {
+        background-color: #f8f9fa;
+        padding: 20px;
+      }
+      h1 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: #000;
+      }
+      table {
+        background-color: #fff;
+      }
+      thead th {
+        background-color: #007bff;
+        color: white;
+      }
+      .text-risk-high {
+        color: #dc3545;
+        font-weight: bold;
+      }
+      .text-risk-moderate {
+        color: rgb(245, 184, 30);
+        font-weight: bold;
+      }
+      .text-risk-low {
+        color: #28a745;
+        font-weight: bold;
+      }
+      .table-responsive {
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+
+      <!-- search for patient section -->
+      <h1>Search for a Patient</h1>
+      <form method="post" action="/" class="mb-5">
+        <div class="form-group">
+          <label for="search_term">Enter Patient Name:</label>
+          <input type="text" name="search_term" id="search_term" class="form-control" placeholder="e.g., John Doe">
+        </div>
+        <button type="submit" class="btn btn-primary">Search</button>
+      </form>
+
+      <!-- patient triaging table -->
+      <h1>Patient Triage Dashboard</h1>
+      <div class="table-responsive">
+        <table class="table table-bordered table-striped mb-0">
+          <thead>
+            <tr>
+              <th>Patient Name</th>
+              <th>MEWS Score</th>
+              <th>Risk Level</th>
+              <th>Clinical Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for patient in patient_risks %}
+            <tr>
+              <td>
+                <a href="{{ url_for('patient_detail', patient_id=patient.patient_id) }}">
+                  {{ patient.patient_name }}
+                </a>
+              </td>
+              <td>{{ patient["MEWS Score"] }}</td>
+              <td class="{% if patient.Risk == 'High' %}text-risk-high
+                          {% elif patient.Risk == 'Moderate' %}text-risk-moderate
+                          {% elif patient.Risk == 'Low' %}text-risk-low
+                          {% endif %}">
+                {{ patient.Risk }}
+              </td>
+              <td>
+                <a href="{{ url_for('patient_clinical_notes', patient_id=patient.patient_id) }}" class="btn btn-sm btn-outline-primary">
+                  View Notes
+                </a>
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- optional JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,940 @@
+
+2024-06-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 17 year-old hispanic white male. Patient has a history of gingival disease (disorder), streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), acute viral pharyngitis (disorder), laceration of hand (disorder), viral sinusitis (disorder), laceration - injury (disorder), gingivitis (disorder), fractured dental filling (finding).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; ibuprofen 200 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2023-06-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 16 year-old hispanic white male. Patient has a history of gingival disease (disorder), streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), acute viral pharyngitis (disorder), laceration of hand (disorder), viral sinusitis (disorder), laceration - injury (disorder), gingivitis (disorder), fractured dental filling (finding).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; ibuprofen 200 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2023-04-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 15 year-old hispanic white male. Patient has a history of gingival disease (disorder), streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), acute viral pharyngitis (disorder), viral sinusitis (disorder), gingivitis (disorder), fractured dental filling (finding).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with laceration - injury (disorder), laceration of hand (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- suture open wound (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 200 mg oral tablet
+The patient was placed on a careplan:
+- wound care (regime/therapy)
+
+
+
+2022-07-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 15 year-old hispanic white male. Patient has a history of gingival disease (disorder), streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), acute viral pharyngitis (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with fractured dental filling (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- examination of gingivae (procedure)
+- restoration of tooth with coverage of all cusps using dental filling material (procedure)
+- dental fluoride treatment (procedure)
+- oral health education (procedure)
+The patient was prescribed the following medications:
+- sodium fluoride 0.0272 mg/mg oral gel
+
+
+
+2022-06-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 15 year-old hispanic white male. Patient has a history of gingival disease (disorder), streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), acute viral pharyngitis (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- health risks education (procedure)
+- patient referral for dental care (procedure)
+
+
+
+2022-04-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 14 year-old hispanic white male. Patient has a history of gingival disease (disorder), streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- throat culture (procedure)
+
+
+
+2022-03-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 14 year-old hispanic white male. Patient has a history of gingival disease (disorder), streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- oral health education (procedure)
+
+
+
+2022-02-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 14 year-old hispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with streptococcal sore throat (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- penicillin v potassium 250 mg oral tablet
+
+
+
+2022-02-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 14 year-old hispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), gingivitis (disorder). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+- patient referral for dental care (procedure)
+
+
+
+2021-10-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 14 year-old hispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: covid-19 vaccine, vector-nr, rs-ad26, pf, 0.5 ml. 
+
+
+
+2021-06-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 14 year-old hispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2020-06-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 13 year-old hispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with primary dental caries (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- examination of gingivae (procedure)
+- application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+- dental fluoride treatment (procedure)
+- oral health education (procedure)
+The patient was prescribed the following medications:
+- sodium fluoride 0.0272 mg/mg oral gel
+
+
+
+2020-06-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 13 year-old hispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), infection of tooth (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+- patient referral for dental care (procedure)
+
+
+
+2019-06-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 12 year-old hispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with infection of tooth (disorder), gingival disease (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental surgical procedure (procedure)
+- dental application of desensitizing medicament (procedure)
+- simple extraction of tooth (procedure)
+- postoperative care for dental procedure (regime/therapy)
+- examination of gingivae (procedure)
+- dental surgical procedure (procedure)
+- dental application of desensitizing medicament (procedure)
+- gingivectomy or gingivoplasty, per tooth (procedure)
+- postoperative care for dental procedure (regime/therapy)
+- dental fluoride treatment (procedure)
+- oral health education (procedure)
+The patient was prescribed the following medications:
+- sodium fluoride 0.0272 mg/mg oral gel
+
+
+
+2019-06-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 12 year-old hispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), primary dental caries (disorder), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- patient referral for dental care (procedure)
+
+
+
+2018-06-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 11 year-old hispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), viral sinusitis (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with primary dental caries (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- examination of gingivae (procedure)
+- restoration of tooth with coverage of all cusps using dental filling material (procedure)
+- oral health education (procedure)
+
+
+
+2018-05-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 11 year-old hispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with gingivitis (disorder). 
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- patient referral for dental care (procedure)
+
+
+
+2017-05-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 10 year-old hispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- dental fluoride treatment (procedure)
+- oral health education (procedure)
+The patient was prescribed the following medications:
+- sodium fluoride 0.0272 mg/mg oral gel
+
+
+
+2017-05-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 10 year-old hispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+The following procedures were conducted:
+- patient referral for dental care (procedure)
+
+
+
+2017-01-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 9 year-old hispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+
+
+2017-01-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 9 year-old hispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-12-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 9 year-old hispanic white male. Patient has a history of medication review due (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+The patient was placed on a careplan:
+- respiratory therapy (procedure)
+
+
+
+2016-05-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 9 year-old hispanic white male. Patient has a history of medication review due (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2015-05-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 7 year-old hispanic white male. Patient has a history of medication review due (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-04-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 5 year-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2007-06-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ernesto186
+ is a 1 month-old hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with cerebral palsy (disorder), poor muscle tone (finding), spasticity (finding), epilepsy (disorder), intellectual disability (disorder), gastroesophageal reflux disease (disorder), pneumonia (disorder). 
+
+## Plan
+
+
+
+

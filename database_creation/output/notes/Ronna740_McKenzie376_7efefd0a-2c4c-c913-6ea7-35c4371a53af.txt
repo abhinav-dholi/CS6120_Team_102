@@ -1,0 +1,487 @@
+
+2024-08-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 3 year-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), laceration - injury (disorder), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder), laceration of thigh (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2024-02-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 3 year-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), laceration - injury (disorder), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder), laceration of thigh (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+
+
+
+
+2023-09-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 2 year-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with laceration - injury (disorder), laceration of thigh (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- suture open wound (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 160 mg chewable tablet
+The patient was placed on a careplan:
+- wound care (regime/therapy)
+
+
+
+2023-08-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 2 year-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2023-02-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 2 year-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+
+
+
+2022-08-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 1 year-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2022-02-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 1 year-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: dtap. 
+
+
+
+2021-11-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 1 year-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+
+
+
+2021-08-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 11 month-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2021-05-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 8 month-old nonhispanic white female. Patient has a history of dyspnea (finding), fever (finding), fatigue (finding), medication review due (situation), sore throat (finding), wheezing (finding), cough (finding), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: ipv, influenza, seasonal, injectable, preservative free, dtap, pneumococcal conjugate pcv 13, hep b, adolescent or pediatric. 
+
+
+
+2021-03-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 5 month-old nonhispanic white female. Patient has a history of medication review due (situation), suspected disease caused by severe acute respiratory coronavirus 2 (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with cough (finding), sore throat (finding), fatigue (finding), dyspnea (finding), wheezing (finding), fever (finding), loss of taste (finding), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2021-02-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 5 month-old nonhispanic white female. Patient has a history of medication review due (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with suspected disease caused by severe acute respiratory coronavirus 2 (situation). 
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-12-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 3 month-old nonhispanic white female. Patient has a history of medication review due (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+
+
+
+2020-10-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a 1 month-old nonhispanic white female. Patient has a history of medication review due (situation).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-09-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ronna740
+ is a newborn nonhispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+

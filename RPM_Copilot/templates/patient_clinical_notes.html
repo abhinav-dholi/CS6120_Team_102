@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Patient Clinical Notes</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+      body {
+        background-color: #f8f9fa;
+        padding: 20px;
+      }
+      .card {
+        margin-bottom: 20px;
+      }
+      .card-header {
+        background-color: #007bff;
+        color: #fff;
+        font-weight: 500;
+      }
+      .card-body {
+        background-color: #fff;
+      }
+      pre {
+        background: #f9f9f9;
+        border: 1px solid #ddd;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Patient {{ patient_id }} - Clinical Notes</h1>
+
+      <!-- Single Note Section -->
+      <div class="card">
+        <div class="card-header">
+          Summarize a Single Note
+        </div>
+        <div class="card-body">
+          <!-- Single Note Form -->
+          {% if distinct_dates|length == 0 %}
+            <p>No notes found for this patient.</p>
+          {% else %}
+            <form method="POST" action="{{ url_for('patient_clinical_notes', patient_id=patient_id) }}">
+              <div class="form-group">
+                <label for="note_date">Select a Note Date:</label>
+                <select class="form-control" name="note_date" id="note_date" required>
+                  <option value="">-- Choose a Date --</option>
+                  {% for dt in distinct_dates %}
+                    <option value="{{ dt }}"
+                      {% if selected_date_str == dt|string %}selected{% endif %}>
+                      {{ dt }}
+                    </option>
+                  {% endfor %}
+                </select>
+              </div>
+              <button type="submit" class="btn btn-primary">Summarize Note</button>
+            </form>
+
+            <!-- Show single note text & summary side by side -->
+            {% if single_note_full_text or single_note_summary %}
+              <div class="row mt-4">
+                <!-- Full Note Column -->
+                <div class="col-md-12">
+                  <h5>Full Note Text</h5>
+                  {% if single_note_full_text %}
+                  <div class="p-3 border bg-white" style="overflow-x:auto; white-space:pre-wrap;">{{ single_note_full_text }}</div>
+                  {% else %}
+                    <p class="text-muted">No note selected or note not found.</p>
+                  {% endif %}
+                </div>
+                <div class="col-md-12 mt-3">
+                  <h5>Full Note Text with NER</h5>
+                  {% if single_note_full_text %}
+                    <div class="p-3 border bg-white" style="overflow-x:auto;">{{ single_note_html|safe }}</div>
+                  {% else %}
+                    <p class="text-muted">No note selected or note not found.</p>
+                  {% endif %}
+                </div>
+
+                <!-- Summary Column -->
+                <div class="col-md-12 mt-3">
+                  <h5>Summary</h5>
+                  {% if single_note_html %}
+                    <div class="p-3 border bg-white" style="overflow-x:auto;">{{ single_note_summary }}</div>
+                  {% else %}
+                    <p class="text-muted">No NER output available.</p>
+                  {% endif %}
+                </div>                
+              </div>
+            {% endif %}
+          {% endif %}
+        </div>
+      </div>
+
+      <!-- Yearly Summary Section -->
+      <div class="card">
+        <div class="card-header">
+          Summarize Notes by Year
+        </div>
+        <div class="card-body">
+          {% if distinct_years|length == 0 %}
+            <p>No notes found for this patient.</p>
+          {% else %}
+            <form method="POST" action="{{ url_for('patient_clinical_notes', patient_id=patient_id) }}">
+              <div class="form-group">
+                <label for="year_for_summary">Select a Year:</label>
+                <select class="form-control" name="year_for_summary" id="year_for_summary" required>
+                  <option value="">-- Choose a Year --</option>
+                  {% for y in distinct_years %}
+                    <option value="{{ y }}"
+                      {% if selected_year == y|string %}selected{% endif %}>
+                      {{ y }}
+                    </option>
+                  {% endfor %}
+                </select>
+              </div>
+              <button type="submit" class="btn btn-warning">Summarize Year</button>
+            </form>
+
+            {% if year_summary_html %}
+              <h5 class="mt-4">NER Highlight for {{ selected_year }}</h5>
+              <div class="p-3 border bg-white" style="overflow-x:auto;">{{ year_summary_html|safe }}</div>
+            {% endif %}
+          {% endif %}
+        </div>
+      </div>
+
+      <br>
+      <a href="{{ url_for('patient_detail', patient_id=patient_id) }}" class="btn btn-secondary">
+        Back to Patient Detail
+      </a>
+    </div>
+
+    <!-- Optionally include Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  </body>
+</html>

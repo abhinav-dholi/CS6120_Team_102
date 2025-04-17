@@ -1,0 +1,401 @@
+
+2006-04-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 39 year-old nonhispanic white male. Patient has a history of medication review due (situation), not in labor force (finding), unemployed (finding), full-time employment (finding), leaking dental filling (finding).
+
+# Social History
+Patient is married. Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with sepsis (disorder), septic shock (disorder), acute respiratory distress syndrome (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- resuscitation using intravenous fluid (procedure)
+- admission to intensive care unit (procedure)
+- resuscitation using intravenous fluid (procedure)
+- transfer to stepdown unit (procedure)
+- admission to intensive care unit (procedure)
+- resuscitation using intravenous fluid (procedure)
+- artificial ventilation (regime/therapy)
+- weaning from mechanically assisted ventilation (regime/therapy)
+The patient was prescribed the following medications:
+- piperacillin 2000 mg / tazobactam 250 mg injection
+- 150 ml vancomycin 5 mg/ml injection
+- 4 ml norepinephrine 1 mg/ml injection
+- 4 ml norepinephrine 1 mg/ml injection
+
+
+
+2004-05-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 37 year-old nonhispanic white male. Patient has a history of medication review due (situation), not in labor force (finding), unemployed (finding), full-time employment (finding), leaking dental filling (finding).
+
+# Social History
+Patient is married. Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- examination of gingivae (procedure)
+- oral health education (procedure)
+
+
+
+2004-04-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 37 year-old nonhispanic white male. Patient has a history of medication review due (situation), not in labor force (finding), unemployed (finding), full-time employment (finding), leaking dental filling (finding).
+
+# Social History
+Patient is married. Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- patient referral for dental care (procedure)
+
+
+
+2001-04-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 34 year-old nonhispanic white male. Patient has a history of medication review due (situation), not in labor force (finding), unemployed (finding), full-time employment (finding).
+
+# Social History
+Patient is married. Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with leaking dental filling (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+- oral health education (procedure)
+
+
+
+2001-04-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 34 year-old nonhispanic white male. Patient has a history of medication review due (situation), unemployed (finding), full-time employment (finding).
+
+# Social History
+Patient is married. Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+- patient referral for dental care (procedure)
+
+
+
+1998-04-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 31 year-old nonhispanic white male. Patient has a history of medication review due (situation), unemployed (finding).
+
+# Social History
+Patient is married. Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+1995-04-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 28 year-old nonhispanic white male.
+
+# Social History
+Patient is married. Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), unemployed (finding). 
+
+## Plan
+
+
+
+
+1985-03-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 18 year-old nonhispanic white male.
+
+# Social History
+ Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with educated to high school level (finding). 
+
+## Plan
+
+
+
+
+1983-03-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 16 year-old nonhispanic white male.
+
+# Social History
+ Patient quit smoking at age 18.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+
+1970-11-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 3 year-old nonhispanic white male.
+
+# Social History
+ Patient quit smoking at age 18.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with allergy to substance (finding). 
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+
+1970-11-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Virgil85
+ is a 3 year-old nonhispanic white male.
+
+# Social History
+ Patient quit smoking at age 18.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- chlorpheniramine maleate 2 mg/ml oral solution
+
+
+

@@ -1,0 +1,41 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2
+2000-07-16,,740c834f-54ed-5f6f-90b5-c96b6d6762a7,793d41e5-8014-dd49-2f94-6a6bb33485dc,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+2000-07-16,,740c834f-54ed-5f6f-90b5-c96b6d6762a7,793d41e5-8014-dd49-2f94-6a6bb33485dc,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2000-07-16,,740c834f-54ed-5f6f-90b5-c96b6d6762a7,793d41e5-8014-dd49-2f94-6a6bb33485dc,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1976-10-18,,ad2634d4-fdea-1334-3e04-32fea84959c2,64096118-7001-0403-7939-c65133f22e7e,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1957-02-05,,8287f10a-968c-f1f5-87d5-c2755aec1ad7,5fb77415-0c07-aacb-6dde-b15851553102,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1957-02-05,,8287f10a-968c-f1f5-87d5-c2755aec1ad7,5fb77415-0c07-aacb-6dde-b15851553102,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,247472004,Wheal (finding),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+1957-02-05,,8287f10a-968c-f1f5-87d5-c2755aec1ad7,5fb77415-0c07-aacb-6dde-b15851553102,5640,Unknown,Ibuprofen,allergy,medication,,,,,,
+1970-11-27,,5e7e67c6-39d8-c775-aa42-8153e93fadb4,836a6388-c763-8ffc-cb74-2d0f912694f9,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1966-06-06,,4c3228d6-e3bf-c5d7-d4c9-f87161b255d0,52d124ce-d5dc-45bf-ee7d-8aa92d0370d8,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1966-06-06,,4c3228d6-e3bf-c5d7-d4c9-f87161b255d0,52d124ce-d5dc-45bf-ee7d-8aa92d0370d8,84489001,Unknown,Mold (organism),allergy,environment,21626009,Cutaneous hypersensitivity (disorder),MILD,,,
+2016-07-28,,353ea130-8b45-30ae-35c8-40501859c05b,0449ba4b-c56f-2288-8824-7fd0c999f6a3,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1952-03-02,,60b9a53d-8f63-6b28-6457-6ab024df1b2b,e434c801-4466-b269-474c-1381c2702fc0,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1952-03-02,,60b9a53d-8f63-6b28-6457-6ab024df1b2b,e434c801-4466-b269-474c-1381c2702fc0,735971005,Unknown,Fish (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,,,
+2003-03-13,,1c326dd9-1df0-0184-5a01-d869695afd3a,3d16d6bd-c234-7172-98ec-141c8ff1b14e,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+2003-03-13,,1c326dd9-1df0-0184-5a01-d869695afd3a,3d16d6bd-c234-7172-98ec-141c8ff1b14e,29046,Unknown,Lisinopril,intolerance,medication,49727002,Cough (finding),MODERATE,,,
+2003-03-13,,1c326dd9-1df0-0184-5a01-d869695afd3a,3d16d6bd-c234-7172-98ec-141c8ff1b14e,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2014-04-10,,927b2a01-bf42-b4cc-3739-7673cc7805da,2e66f63a-ebe5-82a7-6810-51565db96e4d,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+2014-04-10,,927b2a01-bf42-b4cc-3739-7673cc7805da,2e66f63a-ebe5-82a7-6810-51565db96e4d,111088007,Unknown,Latex (substance),allergy,environment,39579001,Anaphylaxis (disorder),SEVERE,267036007,Dyspnea (finding),MODERATE
+2014-04-10,,927b2a01-bf42-b4cc-3739-7673cc7805da,2e66f63a-ebe5-82a7-6810-51565db96e4d,84489001,Unknown,Mold (organism),allergy,environment,21626009,Cutaneous hypersensitivity (disorder),MILD,267101005,Nasal discharge present (situation),MILD
+2014-04-10,,927b2a01-bf42-b4cc-3739-7673cc7805da,2e66f63a-ebe5-82a7-6810-51565db96e4d,264287008,Unknown,Animal dander (substance),allergy,environment,247472004,Wheal (finding),MILD,267036007,Dyspnea (finding),MILD
+2014-04-10,,927b2a01-bf42-b4cc-3739-7673cc7805da,2e66f63a-ebe5-82a7-6810-51565db96e4d,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2014-04-10,,927b2a01-bf42-b4cc-3739-7673cc7805da,2e66f63a-ebe5-82a7-6810-51565db96e4d,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2014-04-10,,927b2a01-bf42-b4cc-3739-7673cc7805da,2e66f63a-ebe5-82a7-6810-51565db96e4d,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2014-04-10,,927b2a01-bf42-b4cc-3739-7673cc7805da,2e66f63a-ebe5-82a7-6810-51565db96e4d,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+1977-11-11,,14318f96-87fe-0681-2a29-3624ac9ac8ab,d2f1813b-4bb2-c669-65c2-e3bb5586d1e5,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1977-11-11,,14318f96-87fe-0681-2a29-3624ac9ac8ab,d2f1813b-4bb2-c669-65c2-e3bb5586d1e5,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1961-07-06,,04f438df-b232-3ca6-7258-1e27b2e5180f,f192ccc1-1f2e-aee4-7170-f4d2cd0dc0e8,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1961-07-06,,04f438df-b232-3ca6-7258-1e27b2e5180f,f192ccc1-1f2e-aee4-7170-f4d2cd0dc0e8,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1947-05-17,,f10ddcd3-4e6e-6d4f-278f-eb7e95a81cb0,7547fe0c-2082-8157-6083-deac7aad4ac0,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1960-11-23,,b24ca5fb-6148-e52e-cd29-00bb4934b325,4fdd5cf9-31ad-ff19-5003-83161f0e70e6,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nasal discharge present (situation),MILD,,,
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,264287008,Unknown,Animal dander (substance),allergy,environment,271807003,Eruption of skin (disorder),MILD,,,
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,,,
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,256355007,Unknown,Glycine max (substance),allergy,food,300359004,Finding of vomiting (finding),MODERATE,62315008,Diarrhea (finding),MILD
+1945-09-24,,bebe408f-b9d3-d512-07ac-d979690146d8,dd364b03-b208-238c-d285-37a6e7edade8,412071004,Unknown,Wheat (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,,,
+1946-03-18,,15fdd1e3-6c93-e5a3-df26-655bbffdc55a,5bc4479a-6ef3-5f8c-fc33-3def15926256,419199007,Unknown,Allergy to substance (finding),allergy,environment,,,,,,

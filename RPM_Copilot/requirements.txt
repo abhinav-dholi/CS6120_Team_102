@@ -1,0 +1,18 @@
+flask
+sqlalchemy
+pandas
+pymysql
+sqlparse
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langgraph
+transformers
+torch
+cryptography
+scikit-learn
+spacy>=3.0.0
+tensorflow>=2.13.0; platform_system != "Darwin" or platform_machine != "arm64"
+tensorflow-macos>=2.13.0; platform_system == "Darwin" and platform_machine == "arm64"
+tensorflow-metal>=0.7.0; platform_system == "Darwin" and platform_machine == "arm64"

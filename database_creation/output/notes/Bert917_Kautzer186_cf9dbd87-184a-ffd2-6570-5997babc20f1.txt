@@ -1,0 +1,1287 @@
+
+2014-02-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 69 year-old nonhispanic black male. Patient has a history of medication review due (situation), alveolitis of jaw (disorder), unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), infection of tooth (disorder), full-time employment (finding), gingivitis (disorder), myocardial infarction (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; heparin sodium, porcine 100 unt/ml injectable solution; aspirin 325 mg oral tablet; clopidogrel 300 mg oral tablet; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2014-02-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 69 year-old nonhispanic black male. Patient has a history of medication review due (situation), alveolitis of jaw (disorder), unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), infection of tooth (disorder), full-time employment (finding), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with history of myocardial infarction (situation). 
+
+## Plan
+
+The following procedures were conducted:
+- risk assessment (procedure)
+- cardiovascular stress testing (procedure)
+- transthoracic echocardiography (procedure)
+The patient was prescribed the following medications:
+- heparin sodium, porcine 100 unt/ml injectable solution
+- clopidogrel 300 mg oral tablet
+- aspirin 81 mg oral tablet
+- metoprolol tartrate 25 mg oral tablet
+- atorvastatin 80 mg oral tablet
+- lisinopril 40 mg oral tablet
+- prasugrel 10 mg oral tablet
+The patient was placed on a careplan:
+- discharge care plan (record artifact)
+
+
+
+2014-02-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 69 year-old nonhispanic black male. Patient has a history of medication review due (situation), alveolitis of jaw (disorder), unemployed (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), infection of tooth (disorder), full-time employment (finding), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with myocardial infarction (disorder), acute non-st segment elevation myocardial infarction (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of cardiac status using monitoring device (procedure)
+- electrocardiographic procedure (procedure)
+- oxygen administration by mask (procedure)
+- laboratory test (procedure)
+- plain x-ray of chest (procedure)
+- diagnostic assessment (procedure)
+- electrocardiographic procedure (procedure)
+The patient was prescribed the following medications:
+- aspirin 325 mg oral tablet
+
+
+
+2013-11-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 69 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), infection of tooth (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with alveolitis of jaw (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental surgical procedure (procedure)
+- tooth socket procedure (procedure)
+- postoperative care for dental procedure (regime/therapy)
+- oral health education (procedure)
+
+
+
+2013-11-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 69 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with infection of tooth (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- dental surgical procedure (procedure)
+- dental application of desensitizing medicament (procedure)
+- simple extraction of tooth (procedure)
+- postoperative care for dental procedure (regime/therapy)
+- examination of gingivae (procedure)
+- oral health education (procedure)
+
+
+
+2013-10-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 69 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+- patient referral for dental care (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2012-12-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 68 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2012-11-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 68 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- examination of gingivae (procedure)
+- oral health education (procedure)
+
+
+
+2012-10-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 68 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- assessment of health and social care needs (procedure)
+- assessment using morse fall scale (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+- patient referral for dental care (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2011-10-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 67 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- examination of gingivae (procedure)
+- dental fluoride treatment (procedure)
+- oral health education (procedure)
+The patient was prescribed the following medications:
+- sodium fluoride 0.0272 mg/mg oral gel
+
+
+
+2011-10-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 67 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), limited social contact (finding), gingivitis (disorder). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+- patient referral for dental care (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2011-07-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 66 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2010-10-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 66 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, pneumococcal polysaccharide vaccine, 23 valent, pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2009-10-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 65 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- assessment of health and social care needs (procedure)
+- assessment using morse fall scale (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2009-07-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 65 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy (procedure)
+
+
+
+2009-07-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 65 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- certification procedure (procedure)
+- notifications (procedure)
+- initial patient assessment (procedure)
+- development of individualized plan of care (procedure)
+- hospice care (regime/therapy)
+- hospice care (regime/therapy)
+- hospice care (regime/therapy)
+- hospice care (regime/therapy)
+- hospice care (regime/therapy)
+- hospice care (regime/therapy)
+- patient discharge (procedure)
+
+
+
+2008-10-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 64 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with primary dental caries (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+- dental fluoride treatment (procedure)
+- oral health education (procedure)
+The patient was prescribed the following medications:
+- sodium fluoride 0.0272 mg/mg oral gel
+
+
+
+2008-09-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 64 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), gingivitis (disorder). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+- patient referral for dental care (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2008-09-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 64 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+
+
+2007-10-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 63 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- dental fluoride treatment (procedure)
+- oral health education (procedure)
+The patient was prescribed the following medications:
+- sodium fluoride 0.0272 mg/mg oral gel
+
+
+
+2007-09-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 63 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; sodium fluoride 0.0272 mg/mg oral gel
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+- patient referral for dental care (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2006-10-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 62 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), gingivitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- dental fluoride treatment (procedure)
+- oral health education (procedure)
+The patient was prescribed the following medications:
+- sodium fluoride 0.0272 mg/mg oral gel
+
+
+
+2006-09-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 62 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), not in labor force (finding), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), full-time employment (finding), gingivitis (disorder). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+- patient referral for dental care (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2005-09-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 61 year-old nonhispanic black male. Patient has a history of medication review due (situation), limited social contact (finding), unemployed (finding), full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2004-09-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 60 year-old nonhispanic black male. Patient has a history of limited social contact (finding), unemployed (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), full-time employment (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- spirometry (procedure)
+- pulmonary rehabilitation (regime/therapy)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2004-07-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 60 year-old nonhispanic black male. Patient has a history of limited social contact (finding), unemployed (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+albuterol 5 mg/ml inhalation solution; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy (procedure)
+
+
+
+2003-09-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 59 year-old nonhispanic black male. Patient has a history of limited social contact (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with unemployed (finding), stress (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- albuterol 5 mg/ml inhalation solution
+- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler
+
+
+
+2001-08-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 57 year-old nonhispanic black male. Patient has a history of social isolation (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding). 
+
+## Plan
+
+
+
+
+1998-08-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 54 year-old nonhispanic black male. Patient has a history of social isolation (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with localized, primary osteoarthritis of the hand (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- naproxen sodium 220 mg oral tablet
+The patient was placed on a careplan:
+- musculoskeletal care (regime/therapy)
+
+
+
+1996-07-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 52 year-old nonhispanic black male.
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding). 
+
+## Plan
+
+
+
+
+1992-08-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 48 year-old nonhispanic black male.
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with pulmonary emphysema (disorder). 
+
+## Plan
+
+The patient was placed on a careplan:
+- chronic obstructive pulmonary disease clinical management plan (record artifact)
+
+
+
+1964-04-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 19 year-old nonhispanic black male. Patient has a history of transport problem (finding), educated to high school level (finding).
+
+# Social History
+Patient is single. Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with lack of access to transportation (finding). 
+
+## Plan
+
+
+
+
+1962-09-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bert917
+ is a 18 year-old nonhispanic black male.
+
+# Social History
+ Patient quit smoking at age 19.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with educated to high school level (finding), transport problem (finding). 
+
+## Plan
+
+
+
+
