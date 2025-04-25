@@ -53,7 +53,15 @@ These components are integrated through a Flask web application that interacts w
   mysql -u <your_username> -p rpm_database < database_creation/rpm_dataset_dump_updated.sql
   ```
 
-4. Create and activate Python virtual environment
+4. Configure the environment variables inside the RPM_Copilot/ directory
+  ```bash
+  DB_USER=root
+  DB_PASSWORD=yourpassword
+  DB_HOST=localhost
+  DB_NAME=rpm_database
+  ```
+   
+5. Create and activate Python virtual environment
   **Mac/Linux:**
   ```bash
   python3.11 -m venv venv
@@ -65,13 +73,13 @@ These components are integrated through a Flask web application that interacts w
   venv\Scripts\activate
   ```
 
-5. Install Python dependencies
+6. Install Python dependencies
   ```bash
   pip install --upgrade pip
   pip install -r RPM_Copilot/requirements.txt
   ```
 
-6. Run the application
+7. Run the application (this will serve as our demo)
   ```bash
   python RPM_Copilot/app.py
   ```
@@ -129,7 +137,7 @@ Open http://127.0.0.1:5000/ in your browser to access the application.
 
 ## Code Structure
 ```
-.
+CS6120_Team_102/
 |-- database_creation/
 |   |-- output/
 |   |   `-- creating_tables_indexes.sql
@@ -158,19 +166,22 @@ Open http://127.0.0.1:5000/ in your browser to access the application.
 |   `-- requirements.txt    
 |
 |-- RPM_Copilot/    
-|   |-- app.py   
+|   |-- app.py
 |   |-- config.py
 |   |-- ner_model.h5          
 |   |-- requirements.txt            
 |   |-- test_sql_qa.ipynb
 |   |-- tokenizer.pickle
+|   |-- .env
 |   `-- templates/               
 |       |-- index.html
 |       |-- patient_clinical_notes.html
 |       |-- patient_detail.html
 |       `-- search_results.html
 |
-`-- README.md
+|-- report_and_presentation/
+|
+`-- README.md      
 ```
 ## Contributors
 

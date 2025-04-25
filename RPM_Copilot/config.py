@@ -1,4 +1,5 @@
-# config.py - Place this file in the root directory of your project
+# config.py - Defines mappings between entity types, acronyms, label indices
+# and sets model parameters for NER processing
 
 entity_to_acronyms = {
     'Activity': 'ACT',
